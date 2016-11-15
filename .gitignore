@@ -38,3 +38,13 @@ captures/
 
 # Keystore files
 *.jks
+*.iml
+.gradle
+local.properties
+.DS_Store
+.externalNativeBuild
+.idea/
+
+#ignore freeline
+freeline.py
+freeline/
